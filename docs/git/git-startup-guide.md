@@ -24,7 +24,17 @@ TODO : Info about rights management
 GitHub provides a lot of [documentation](http://help.github.com/) and especially an installation/configuration guide for each operating system :
 
 * [Linux](http://help.github.com/linux-set-up-git/)
-* [Windows](http://help.github.com/win-set-up-git/)
+   
+   To the git-core, it is possible to add gitk which show logs and provide access to git GUI
+   
+   **sudo apt-get install  gitk**
+   
+   **sudo apt-get install  git-gui**
+
+* [Windows](http://help.github.com/win-set-up-git/) 
+ 
+ Besides, [Tortoise Git](http://drupal.org/node/1082382) should be an interesting GUI windows client for GIT. Its contextuel menu helps a lot.
+
 * [MacOS](http://help.github.com/mac-set-up-git/)
 
 Please follow these guides to setup your environment.
